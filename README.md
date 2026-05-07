@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Syed Faraz Ali 👋
 
-<!--
-**syedifaraz/syedifaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Infrastructure • DevOps • Self-Hosting • Automation
 
-Here are some ideas to get you started:
+I build and manage real-world infrastructure systems focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Docker & containerized services
+- Raspberry Pi enterprise deployments
+- Monitoring & observability
+- VPN & secure networking
+- Self-hosted cloud infrastructure
+- ERP & automation systems
+- Linux system administration
+- Network infrastructure & VLANs
+
+---
+
+## Current Projects
+
+### Raspberry Pi Enterprise Stack
+Enterprise-grade Raspberry Pi infrastructure with:
+
+- Pi-hole
+- Grafana
+- Prometheus
+- Loki
+- Nextcloud
+- WireGuard / Tailscale
+- Cloudflare Tunnel
+- Docker orchestration
+
+---
+
+## Technical Skills
+
+### Infrastructure & DevOps
+- Docker
+- Linux
+- Cloudflare Tunnel
+- WireGuard
+- Tailscale
+- Grafana
+- Prometheus
+- Loki
+- Portainer
+
+### Networking
+- VLAN Design
+- Omada Controller
+- Cisco Switching
+- DNS Management
+- VPN Infrastructure
+- Firewall Management
+
+### Development
+- Python
+- Flask
+- Automation Systems
+- ERP Integrations
+- REST APIs
+
+---
+
+## Featured Repository
+
+🔹 [raspberry-pi-enterprise-stack](https://github.com/syedifaraz/raspberry-pi-enterprise-stack)
+
+---
+
+## Goals
+
+Building production-grade self-hosted infrastructure and automation systems with a focus on scalability, monitoring, and security.
